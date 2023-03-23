@@ -43,7 +43,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -60,29 +60,48 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'T-Rex',
+        title: "T-Rex",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
         },
         items: [
-          {to: '/blog', label: 'Photos', position: 'left'},
-          
-          {to: '/blog/anatomy', label: 'What Did the T-Rex Look Like?', position: 'left'},
+          { to: "/blog", label: "Photos", position: "left" },
 
-          {to: '/blog/habitat', label: 'Where Did the T-Rex Live?', position: 'left'},
+          {
+            to: "/blog/anatomy",
+            label: "What Did the T-Rex Look Like?",
+            position: "left",
+          },
 
-          {to: '/blog/behavior', label: 'How Did the T-Rex Act?', position: 'left'},
+          {
+            to: "/blog/habitat",
+            label: "Where Did the T-Rex Live?",
+            position: "left",
+          },
 
-          {to: '/blog/diet', label: 'What Did the T-Rex Eat?', position: 'left'},
+          {
+            to: "/blog/behavior",
+            label: "How Did the T-Rex Act?",
+            position: "left",
+          },
 
-          {to: '/blog/classification', label: 'How Do Scientists Categorize the T-Rex?', position: 'left'},
+          {
+            to: "/blog/diet",
+            label: "What Did the T-Rex Eat?",
+            position: "left",
+          },
+
+          {
+            to: "/blog/classification",
+            label: "How Do Scientists Categorize the T-Rex?",
+            position: "left",
+          },
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-        ],
+        style: "dark",
+        links: [],
         copyright: `Copyright © ${new Date().getFullYear()} T-Rex Team, Inc. Built with Docusaurus.`,
       },
       prism: {
