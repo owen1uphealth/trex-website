@@ -66,15 +66,17 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          {to: '/blog', label: 'Gallery', position: 'left'},
-
-          {to: '/blog/classification', label: 'Classification', position: 'left'},
+          {to: '/blog', label: 'Photos', position: 'left'},
           
-          {to: '/blog/habitat', label: 'Habitat', position: 'left'},
+          {to: '/blog/anatomy', label: 'What Did the T-Rex Look Like?', position: 'left'},
 
-          {to: '/blog/behavior', label: 'Behavior', position: 'left'},
+          {to: '/blog/habitat', label: 'Where Did the T-Rex Live?', position: 'left'},
 
-          {to: '/blog/diet', label: 'Diet', position: 'left'},
+          {to: '/blog/behavior', label: 'How Did the T-Rex Act?', position: 'left'},
+
+          {to: '/blog/diet', label: 'What Did the T-Rex Eat?', position: 'left'},
+
+          {to: '/blog/classification', label: 'How Do Scientists Categorize the T-Rex?', position: 'left'},
         ],
       },
       footer: {
