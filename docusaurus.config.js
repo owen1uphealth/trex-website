@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
+  title: "Tyranasaurus Rex",
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'T-Rex Website',
+        title: 'T-Rex',
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -72,11 +72,13 @@ const config = {
         items: [
           {to: '/blog', label: 'Gallery', position: 'left'},
 
-          {to: '/blog', label: 'Info', position: 'left'},
+          {to: '/blog/scientific%20information', label: 'Info', position: 'left'},
           
-          {to: '/blog', label: 'Habitat', position: 'left'},
+          {to: '/blog/habitat', label: 'Habitat', position: 'left'},
 
-          {to: '/blog', label: 'Biology', position: 'left'},
+          {to: '/blog/behavior', label: 'Behavior', position: 'left'},
+
+          {to: '/blog/diet', label: 'Diet', position: 'left'},
           {
             href: 'https://github.com/owen1uphealth/trex-website',
             label: 'Github',
