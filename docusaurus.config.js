@@ -79,11 +79,6 @@ const config = {
           {to: '/blog/behavior', label: 'Behavior', position: 'left'},
 
           {to: '/blog/diet', label: 'Diet', position: 'left'},
-          {
-            href: 'https://github.com/owen1uphealth/trex-website',
-            label: 'Github',
-            position: 'right',
-          },
         ],
       },
       footer: {
