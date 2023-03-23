@@ -3,7 +3,7 @@ slug: diet
 title: Diet
 authors:
   name: T-Rex Team
-  title: The Diet of the Tyrannasourus Rex
+  title: The Diet of the Tyrannosaurus Rex
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 tags: [hola, docusaurus]
