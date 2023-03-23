@@ -66,8 +66,6 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          { to: "/blog", label: "Photos", position: "left" },
-
           {
             to: "/blog/anatomy",
             label: "What Did the T-Rex Look Like?",
