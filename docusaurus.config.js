@@ -68,7 +68,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Gallery', position: 'left'},
 
-          {to: '/blog/scientific%20information', label: 'Info', position: 'left'},
+          {to: '/blog/classification', label: 'Classification', position: 'left'},
           
           {to: '/blog/habitat', label: 'Habitat', position: 'left'},
 

@@ -1,9 +1,9 @@
 ---
 slug: diet
-title: Diet
+title: What Did the T-Rex Eat?
 authors:
   name: T-Rex Team
-  title: The Diet of the Tyrannosaurus Rex
+  title: What Did the T-Rex Eat?
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 ---

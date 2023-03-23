@@ -1,9 +1,9 @@
 ---
-slug: scientific information
-title: scientific information
+slug: classification
+title: How Do Scientists Categorize the T-Rex?
 authors:
   name: T-Rex Team
-  title: The Diet of the Tyrannosaurus Rex
+  title: How Do Scientists Categorize the T-Rex?
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 ---

@@ -1,9 +1,9 @@
 ---
 slug: behavior
-title: Behavior
+title: How Did the T-Rex Act?
 authors:
   name: T-Rex Team
-  title: The Behavior of the Tyrannasourus Rex
+  title: How Did the T-Rex Act?
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 ---

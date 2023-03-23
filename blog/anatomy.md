@@ -1,9 +1,9 @@
 ---
 slug: anatomy
-title: Anatomy
+title: What Did the T-Rex Look Like?
 authors:
   name: T-Rex Team
-  title: The Anatomy of the Tyrannasourus Rex
+  title: What Did the T-Rex Look Like?
   url: https://github.com/wgao19
   image_url: https://github.com/oloveluck.png
 ---

@@ -1,9 +1,9 @@
 ---
 slug: habitat
-title: Habitat
+title: Where Did the T-Rex Live?
 authors:
   name: T-Rex Team
-  title: The Habitat of the Tyrannasourus Rex
+  title: Where Did the T-Rex Live?
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 ---
