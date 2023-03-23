@@ -8,8 +8,8 @@ authors:
   image_url: https://github.com/wgao19.png
 ---
 
-While the T-Rex's diet was mainly composed of other dinosaurs, it is believed that it had a diverse range of prey. For example, the Triceratops, one of the T-Rex's primary prey, had a bulky frame and a thick frill that served as protection against predators. To overcome these obstacles, the T-Rex likely used its strong jaws to bite through the frill and neck of the Triceratops, ultimately bringing it down.
+T-Rex loved to eat other dinosaurs, but it didn't just stick to one kind—it liked to try different types of dino meals! One of its favorite snacks was the Triceratops, which had a big body and a tough shield around its neck to help protect it from hungry predators. But T-Rex had super-strong jaws that could bite through that shield and take down the Triceratops for dinner.
 
-The T-Rex may have also targeted herbivorous dinosaurs such as the Edmontosaurus, which was smaller in size but could still provide a substantial meal for the predator. Additionally, there is some evidence to suggest that the T-Rex may have occasionally preyed upon aquatic animals, such as turtles or fish, that lived in the rivers and streams of its habitat.
+Another dinosaur T-Rex might have enjoyed eating was the Edmontosaurus, which was smaller but still made a big meal for our toothy friend. Some scientists even think T-Rex might have munched on water animals like turtles or fish that lived in the rivers where it roamed.
 
-While the T-Rex's diet was primarily composed of meat, it is possible that it also consumed other non-dinosaurian animals such as smaller mammals, lizards, or insects. However, due to the lack of fossil evidence for these prey items, it is difficult to say for certain. Overall, the T-Rex was a fearsome and efficient predator that likely had a varied diet to sustain its massive size and strength.
+T-Rex mostly ate meat, but it's possible that it sometimes snacked on other things, like little mammals, lizards, or even bugs. We don't have a lot of fossils to prove this, so we can't be sure. But one thing is clear: T-Rex was an amazing hunter that loved trying all kinds of food to keep itself big and strong!
