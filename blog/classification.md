@@ -8,7 +8,8 @@ authors:
   image_url: https://github.com/wgao19.png
 ---
 
-The scientific name of Tyrannosaurus rex is exactly that: Tyrannosaurus rex. It belongs to the following classification:
+The scientific name of Tyrannosaurus rex is exactly that: Tyrannosaurus rex.  
+It belongs to the following classification:
 
 - Green 
 - Red
