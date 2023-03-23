@@ -6,7 +6,6 @@ authors:
   title: The Diet of the Tyrannosaurus Rex
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
 ---
 
 The scientific name of Tyrannosaurus rex is exactly that: Tyrannosaurus rex. It belongs to the following classification:

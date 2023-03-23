@@ -6,7 +6,6 @@ authors:
   title: The Habitat of the Tyrannasourus Rex
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
 ---
 
 The Tyrannosaurus rex, commonly known as T. rex, was a large carnivorous dinosaur that lived during the Late Cretaceous Period, around 68 to 66 million years ago. Its habitat was characterized by a diverse range of environments, including coastal areas, semi-arid inland regions, and temperate forests. The climate at that time was generally warmer and more humid than today, with lush vegetation and abundant water sources.
