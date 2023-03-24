@@ -67,6 +67,11 @@ const config = {
         },
         items: [
           {
+            to: "/blog/fastFacts",
+            label: "T-Rex Fast Facts!",
+            position: "left",
+          },
+          {
             to: "/blog/anatomy",
             label: "What Did the T-Rex Look Like?",
             position: "left",
