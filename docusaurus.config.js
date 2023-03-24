@@ -76,8 +76,6 @@ const config = {
             label: "What Did the T-Rex Look Like?",
             position: "left",
           },
-          
-
           {
             to: "/blog/habitat",
             label: "Where Did the T-Rex Live?",
@@ -99,6 +97,11 @@ const config = {
           {
             to: "/blog/classification",
             label: "How Do Scientists Categorize the T-Rex?",
+            position: "left",
+          },
+          {
+            to: "/blog/learningReferences",
+            label: "Learning References",
             position: "left",
           },
           {
