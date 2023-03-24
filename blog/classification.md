@@ -17,7 +17,7 @@ It belongs to the following classification:
 <img src="/img/scientists.jpeg"
      alt="Green T-Rex"
      width="400" 
-     height="500"/>
+     height="500"/> <br />
 
 <img src="/img/green.jpeg"
      width="150" 
@@ -27,4 +27,9 @@ It belongs to the following classification:
 <img src="/img/red.jpeg"
      width="100" 
      height="200" 
-     alt="Red T-Rex"/>     
+     alt="Red T-Rex"/> 
+<br />
+<br />
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/Rko0LigjmAQ">
+</iframe>       
