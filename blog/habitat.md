@@ -8,10 +8,10 @@ authors:
   image_url: https://github.com/janos1uphealth
 ---
 
-The Tyrannosaurus rex, commonly known as T. rex, was a large carnivorous dinosaur that lived during the Late Cretaceous Period, around 68 to 66 million years ago. Its habitat was characterized by a diverse range of environments, including coastal areas, semi-arid inland regions, and temperate forests. The climate at that time was generally warmer and more humid than today, with lush vegetation and abundant water sources.
+The T-Rex, also known as Tyrannosaurus rex, was a huge meat-eating dinosaur that lived a long, long time ago—about 68 to 66 million years ago! Back then, the world looked very different, with lots of coastal areas, dry lands, and forests filled with all sorts of plants and animals.
 
-T. rex fossils have primarily been discovered in North America, particularly in what is now the western United States, including Montana, South Dakota, and Wyoming, as well as in Canada, particularly in Alberta and Saskatchewan. There is also evidence to suggest that T. rex may have lived in parts of Mexico.
+Most T-Rex fossils have been found in North America, in places like Montana, South Dakota, Wyoming, and even in Canada. There's a chance they lived in parts of Mexico too!
 
-The surroundings of the T. rex habitat were teeming with life, consisting of various plant and animal species. The flora included ferns, conifers, cycads, and flowering plants (angiosperms), which were a major food source for herbivorous dinosaurs. The fauna comprised of numerous dinosaur species, such as the large herbivores Triceratops and Edmontosaurus, which were potential prey for T. rex, as well as smaller dinosaurs, mammals, reptiles, and amphibians.
+The world T-Rex lived in was full of life, with plants like ferns, cone-bearing trees, and flowers that other plant-eating dinosaurs loved to munch on. There were many other dinosaurs, like the three-horned Triceratops and the duck-billed Edmontosaurus, which the T-Rex might have hunted for food. There were also smaller dinosaurs, mammals, reptiles, and amphibians living alongside them.
 
-As a large predator, T. rex was likely to have been a highly mobile animal, covering vast distances in search of food rather than having a specific "home." It would have been an apex predator, at the top of the food chain, with few to no natural enemies. T. rex's habitat would have provided it with ample opportunities for hunting and scavenging, as well as sufficient cover for ambushing prey and protection from other threats.
+T-Rex was a big, strong predator that could roam far and wide looking for food, without having a specific place to call home. It was the top of the food chain, which means it didn't have many enemies to worry about. With lots of places to find food, as well as places to hide and ambush its prey, T-Rex's world was the perfect place for this giant dinosaur to thrive!
