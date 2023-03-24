@@ -8,23 +8,36 @@ authors:
   image_url: https://github.com/rakesh-pankhania.png
 ---
 
-The scientific name of Tyrannosaurus rex is exactly that: Tyrannosaurus rex.  
-It belongs to the following classification:
+There are seven major levels of classification: Kingdom, Phylum, Class, Order, Family, Genus, and Species. The two main kingdoms we think about are plants and animals. Sometimes an eighth level above the Kingdom called the Domain is used.
 
-- Green 
-- Red
+## Classification for Humans
 
-<img src="/img/scientists.jpeg"
-     alt="Green T-Rex"
-     width="400" 
-     height="500"/>
+Here is an example of how humans are classified. You will see that our species is homo sapiens:
 
-<img src="/img/green.jpeg"
-     width="150" 
-     height="200" 
-     alt="Green T-Rex"/>
+- Kingdom: Animalia
+- Phylum: Chordata
+- Class: Mammalia
+- Order: Primates
+- Family: Hominidae
+- Genus: Homo
+- Species: Homo sapiens
 
-<img src="/img/red.jpeg"
-     width="100" 
-     height="200" 
-     alt="Red T-Rex"/>     
+## Classification for the T-rex
+This is the entire classification of the T-rex species:
+
+- Kingdom: Animalia
+- Phylum: Chordata
+- Clade: Dinosauria
+- Clade: Saurischia
+- Clade: Theropoda
+- Family: Tyrannosauridae
+- Subfamily: Tyrannosaurinae
+- Genus: Tyrannosaurus
+- Species: Tyrannosaurus rex
+
+
+## Related Species
+
+You can see relatives of the T-rex here. They all share the same Family (Tyrannosauridae), but they branch to different species from there.
+
+![relatives](/img/classification1.png)
