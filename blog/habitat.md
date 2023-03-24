@@ -5,7 +5,7 @@ authors:
   name: T-Rex Team
   title: Where Did the T-Rex Live?
   url: https://github.com/janos1uphealth
-  image_url: https://github.com/janos1uphealth
+  image_url: https://github.com/janos1uphealth.png
 ---
 
 The T-Rex, also known as Tyrannosaurus rex, was a huge meat-eating dinosaur that lived a long, long time ago—about 68 to 66 million years ago! Back then, the world looked very different, with lots of coastal areas, dry lands, and forests filled with all sorts of plants and animals.
