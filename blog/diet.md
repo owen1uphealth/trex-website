@@ -4,8 +4,8 @@ title: What Did the T-Rex Eat?
 authors:
   name: T-Rex Team
   title: What Did the T-Rex Eat?
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/rakesh-pankhania
+  image_url: https://github.com/rakesh-pankhania
 ---
 
 While the T-Rex's diet was mainly composed of other dinosaurs, it is believed that it had a diverse range of prey. For example, the Triceratops, one of the T-Rex's primary prey, had a bulky frame and a thick frill that served as protection against predators. To overcome these obstacles, the T-Rex likely used its strong jaws to bite through the frill and neck of the Triceratops, ultimately bringing it down.

@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+owen:
+  name: Owen 
+  title: Site Owner
+  url: https://github.com/oloveluck
+  image_url: https://github.com/oloveluck.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+rio:
+  name: Rio
+  title: Scrum Master
+  url: https://github.com/mattriordan1uphealth
+  image_url: https://github.com/mattriodran1uphealth.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+rakesh:
+  name: Rakesh
+  title: Developer 
+  url: https://github.com/rakesh-pankhania
+  image_url: https://github.com/rakesh-pankhania.png

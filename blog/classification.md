@@ -4,8 +4,8 @@ title: How Do Scientists Categorize the T-Rex?
 authors:
   name: T-Rex Team
   title: How Do Scientists Categorize the T-Rex?
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/rakesh-pankhania
+  image_url: https://github.com/rakesh-pankhania.png
 ---
 
 The scientific name of Tyrannosaurus rex is exactly that: Tyrannosaurus rex. It belongs to the following classification:
