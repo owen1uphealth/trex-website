@@ -1,9 +1,9 @@
 import React from 'react';
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import trex from '@site/static/img/trex2.jpeg';
 
 import styles from './index.module.css';
 
@@ -30,6 +30,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <img src={trex} />
       </main>
     </Layout>
   );

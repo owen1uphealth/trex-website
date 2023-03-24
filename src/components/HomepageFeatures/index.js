@@ -2,7 +2,6 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-import trex from '@site/static/img/trex2.jpeg'
 
 const FeatureList = [];
 
@@ -28,7 +27,6 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
-          <img src={trex} />;
         </div>
       </div>
     </section>
